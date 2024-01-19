@@ -1,0 +1,4 @@
+name: Slimefun4Oraxen
+version: '${project.version}'
+main: ru.quickfirecorp.Slimefun4Oraxen
+api-version: '1.19'
