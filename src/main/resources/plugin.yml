@@ -2,4 +2,8 @@ name: Slimefun4Oraxen
 version: '${project.version}'
 main: ru.quickfirecorp.Slimefun4Oraxen
 api-version: '1.14'
-depend: [Slimefun]
+
+description: A generic Slimefun4-Addon
+
+depend:
+  - Slimefun
