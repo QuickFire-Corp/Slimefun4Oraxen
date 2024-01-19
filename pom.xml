@@ -96,6 +96,12 @@
             <groupId>com.github.Slimefun</groupId>
             <artifactId>Slimefun4</artifactId>
             <version>RC-36</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>io.github.baked-libs</groupId>
+                    <artifactId>dough-api</artifactId>
+                </exclusion>
+            </exclusions>
         </dependency>
     </dependencies>
 </project>
