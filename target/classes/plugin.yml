@@ -1,5 +1,5 @@
 name: Slimefun4Oraxen
-version: '${project.version}'
+version: '1.0'
 main: ru.quickfirecorp.Slimefun4Oraxen
 api-version: '1.14'
 depend: [Slimefun]
